@@ -1,0 +1,13 @@
+{
+  "name": {
+    "common": "Svalbard and Jan Mayen"
+  },
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "latlng": [
+    78,
+    20
+  ],
+  "area": 61399,
+  "population": 2562
+}

@@ -1,0 +1,13 @@
+{
+  "name": {
+    "common": "Antarctica"
+  },
+  "region": "Antarctic",
+  "subregion": "",
+  "latlng": [
+    -90,
+    0
+  ],
+  "area": 14000000,
+  "population": 1000
+}

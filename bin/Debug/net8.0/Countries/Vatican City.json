@@ -1,0 +1,13 @@
+{
+  "name": {
+    "common": "Vatican City"
+  },
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "latlng": [
+    41.9,
+    12.45
+  ],
+  "area": 0.44,
+  "population": 451
+}

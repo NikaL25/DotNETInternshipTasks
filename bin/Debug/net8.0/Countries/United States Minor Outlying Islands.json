@@ -1,0 +1,13 @@
+{
+  "name": {
+    "common": "United States Minor Outlying Islands"
+  },
+  "region": "Americas",
+  "subregion": "North America",
+  "latlng": [
+    19.3,
+    166.633333
+  ],
+  "area": 34.2,
+  "population": 300
+}

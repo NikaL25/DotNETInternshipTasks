@@ -1,0 +1,13 @@
+{
+  "name": {
+    "common": "Macau"
+  },
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "latlng": [
+    22.16666666,
+    113.55
+  ],
+  "area": 30,
+  "population": 649342
+}

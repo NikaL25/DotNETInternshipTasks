@@ -1,0 +1,13 @@
+{
+  "name": {
+    "common": "Czechia"
+  },
+  "region": "Europe",
+  "subregion": "Central Europe",
+  "latlng": [
+    49.75,
+    15.5
+  ],
+  "area": 78865,
+  "population": 10698896
+}

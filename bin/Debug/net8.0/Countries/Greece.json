@@ -1,0 +1,13 @@
+{
+  "name": {
+    "common": "Greece"
+  },
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "latlng": [
+    39,
+    22
+  ],
+  "area": 131990,
+  "population": 10715549
+}

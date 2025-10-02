@@ -1,0 +1,13 @@
+{
+  "name": {
+    "common": "Brazil"
+  },
+  "region": "Americas",
+  "subregion": "South America",
+  "latlng": [
+    -10,
+    -55
+  ],
+  "area": 8515767,
+  "population": 212559409
+}

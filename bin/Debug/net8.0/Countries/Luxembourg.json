@@ -1,0 +1,13 @@
+{
+  "name": {
+    "common": "Luxembourg"
+  },
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "latlng": [
+    49.75,
+    6.16666666
+  ],
+  "area": 2586,
+  "population": 632275
+}

@@ -1,0 +1,13 @@
+{
+  "name": {
+    "common": "Iceland"
+  },
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "latlng": [
+    65,
+    -18
+  ],
+  "area": 103000,
+  "population": 366425
+}

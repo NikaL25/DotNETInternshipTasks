@@ -1,0 +1,13 @@
+{
+  "name": {
+    "common": "Argentina"
+  },
+  "region": "Americas",
+  "subregion": "South America",
+  "latlng": [
+    -34,
+    -64
+  ],
+  "area": 2780400,
+  "population": 45376763
+}

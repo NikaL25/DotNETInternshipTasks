@@ -1,0 +1,13 @@
+{
+  "name": {
+    "common": "Panama"
+  },
+  "region": "Americas",
+  "subregion": "Central America",
+  "latlng": [
+    9,
+    -80
+  ],
+  "area": 75417,
+  "population": 4314768
+}

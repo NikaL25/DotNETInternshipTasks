@@ -1,0 +1,13 @@
+{
+  "name": {
+    "common": "Russia"
+  },
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "latlng": [
+    60,
+    100
+  ],
+  "area": 17098242,
+  "population": 144104080
+}

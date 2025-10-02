@@ -1,0 +1,5 @@
+Region: Africa
+Subregion: Eastern Africa
+LatLng: -20,28333333, 57,55
+Area: 2040
+Population: 1265740

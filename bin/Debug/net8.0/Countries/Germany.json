@@ -1,0 +1,13 @@
+{
+  "name": {
+    "common": "Germany"
+  },
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "latlng": [
+    51,
+    9
+  ],
+  "area": 357114,
+  "population": 83240525
+}

@@ -1,0 +1,13 @@
+{
+  "name": {
+    "common": "Chile"
+  },
+  "region": "Americas",
+  "subregion": "South America",
+  "latlng": [
+    -30,
+    -71
+  ],
+  "area": 756102,
+  "population": 19116209
+}

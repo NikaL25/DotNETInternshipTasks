@@ -1,0 +1,13 @@
+{
+  "name": {
+    "common": "Guatemala"
+  },
+  "region": "Americas",
+  "subregion": "Central America",
+  "latlng": [
+    15.5,
+    -90.25
+  ],
+  "area": 108889,
+  "population": 16858333
+}

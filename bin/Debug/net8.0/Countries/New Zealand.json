@@ -1,0 +1,13 @@
+{
+  "name": {
+    "common": "New Zealand"
+  },
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand",
+  "latlng": [
+    -41,
+    174
+  ],
+  "area": 270467,
+  "population": 5084300
+}

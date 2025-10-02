@@ -1,0 +1,5 @@
+Region: Africa
+Subregion: Middle Africa
+LatLng: 7, 21
+Area: 622984
+Population: 4829764

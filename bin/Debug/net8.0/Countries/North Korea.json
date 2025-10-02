@@ -1,0 +1,13 @@
+{
+  "name": {
+    "common": "North Korea"
+  },
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "latlng": [
+    40,
+    127
+  ],
+  "area": 120538,
+  "population": 25778815
+}

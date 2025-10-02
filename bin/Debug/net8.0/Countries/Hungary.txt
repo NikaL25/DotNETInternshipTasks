@@ -1,0 +1,5 @@
+Region: Europe
+Subregion: Central Europe
+LatLng: 47, 20
+Area: 93028
+Population: 9749763

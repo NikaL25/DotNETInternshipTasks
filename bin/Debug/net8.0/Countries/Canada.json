@@ -1,0 +1,13 @@
+{
+  "name": {
+    "common": "Canada"
+  },
+  "region": "Americas",
+  "subregion": "North America",
+  "latlng": [
+    60,
+    -95
+  ],
+  "area": 9984670,
+  "population": 38005238
+}

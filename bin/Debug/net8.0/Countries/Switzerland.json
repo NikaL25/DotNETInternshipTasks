@@ -1,0 +1,13 @@
+{
+  "name": {
+    "common": "Switzerland"
+  },
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "latlng": [
+    47,
+    8
+  ],
+  "area": 41284,
+  "population": 8654622
+}

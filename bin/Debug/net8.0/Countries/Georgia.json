@@ -1,0 +1,13 @@
+{
+  "name": {
+    "common": "Georgia"
+  },
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "latlng": [
+    42,
+    43.5
+  ],
+  "area": 69700,
+  "population": 3714000
+}
